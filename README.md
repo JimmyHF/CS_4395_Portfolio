@@ -20,3 +20,15 @@ The following is a Python program that takes an input text from a specified syst
 The following is a Python notebook that explores different features of NLTK and WordNet, including synonym set hierarchies, sentimental analysis, and collocations. Descriptions and results for each task can be found within the notebook alongside Python code.
 
 [Notebook](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/jah200003a3.ipynb)
+
+## N-Grams
+The following is a collection of Python programs made to create language models using n-grams. The first program takes in training data from three different languages and generates unigram and bigram dictionaries for each one. These pickled files can then be processed by the second program, which uses probabilities determined from the training data to identify the languages of test files.
+
+[Dictionary Generator](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/get_ngrams.py)<br/>
+[Language Identifier](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/LangPredModel.py)<br/>
+[Narrative](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/N_Gram__Language_Models.pdf)
+
+## Parsing
+The following is a written assignment that parses a lengthy sentence with three different methods: PSG, dependencies, and semantic role labeling. PSG is the easiest to read and understand, including part-of-speech labels by each terminal symbol, but it is the most difficult to create. Dependency parsing was more thorough and caught relationships surrounding an anchor word, but the documentation was a fair bit more difficult to navigate. Semantic role labeling parses had even stranger documentation through the verb frames in PropBank, and while fewer relationships were captured, some meaning could be derived alongside syntax.
+
+[Document](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/Parsing.pdf)
