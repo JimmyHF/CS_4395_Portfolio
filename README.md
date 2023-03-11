@@ -32,3 +32,9 @@ The following is a collection of Python programs made to create language models 
 The following is a written assignment that parses a lengthy sentence with three different methods: PSG, dependencies, and semantic role labeling. PSG is the easiest to read and understand, including part-of-speech labels by each terminal symbol, but it is the most difficult to create. Dependency parsing was more thorough and caught relationships surrounding an anchor word, but the documentation was a fair bit more difficult to navigate. Semantic role labeling parses had even stranger documentation through the verb frames in PropBank, and while fewer relationships were captured, some meaning could be derived alongside syntax.
 
 [Document](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/Parsing.pdf)
+
+## Web Crawler
+The following is a program that crawls and scrapes URLs to build a knowledge base pertaining to tea. This generates 50 files of text, and each of these is then cleaned and used to find important terms. There is a python file and an accompannying narrative file.
+
+[Web Crawler](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/web_crawler_2.py)<br/>
+[Narrative](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/Finding_and_Building_a_Corpus.pdf)
