@@ -38,3 +38,9 @@ The following is a program that crawls and scrapes URLs to build a knowledge bas
 
 [Web Crawler](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/web_crawler_2.py)<br/>
 [Narrative](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/Finding_and_Building_a_Corpus.pdf)
+
+## Text Classification
+The following is a notebook that looks through a dataset of Nigerian job postings and classifies them as real or fake. I use Naive Bayes, Logistic Regression, and a simple Neural Network from SKLearn.
+
+[Notebook](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/TextClassification.ipynb)<br/>
+[PDF](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Test%20Classification.pdf)
