@@ -44,3 +44,8 @@ The following is a notebook that looks through a dataset of Nigerian job posting
 
 [Notebook](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/TextClassification.ipynb)<br/>
 [PDF](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Test%20Classification.pdf)
+
+## ACL Paper Summary
+The following is a short summary of a paper detailing a new unsupervised extractive opinion summarizer called SemAE.
+
+[Summary](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Unsupervised%20Extractive%20Opinion%20Summarization%20Using%20Sparse%20Coding.pdf)
