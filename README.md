@@ -48,7 +48,8 @@ The following is a notebook that looks through a dataset of Nigerian job posting
 ## ACL Paper Summary
 The following is a short summary of a paper detailing a new unsupervised extractive opinion summarizer called SemAE.
 
-[Summary](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Unsupervised%20Extractive%20Opinion%20Summarization%20Using%20Sparse%20Coding.pdf)
+[Summary](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Unsupervised%20Extractive%20Opinion%20Summarization%20Using%20Sparse%20Coding.pdf)<br/>
+[Paper](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/ACL_Paper.pdf)
 
 ## Chat Bot
 The following is a Python notebook for a chatbot that is an expert on tea. The web crawler and scraper from before was used to create a knowledge base, which was then indexed through vector space modeling by a conversational chat agent. The chatbot has a buffer memory that it uses to keep track of chat logs and user information. The LLM used is GPT-4, a cutting-edge language model that is great for processing and responding to user queries. The included files are the program itself, a detailed report, and zipped files for the knowledge base and user models, respectively.
