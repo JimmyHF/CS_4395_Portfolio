@@ -58,3 +58,9 @@ The following is a Python notebook for a chatbot that is an expert on tea. The w
 [Narrative](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395.001%20Chatbot%20Project.pdf)<br/>
 [Knowledge](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/knowledge.zip)<br/>
 [Users](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/users.zip)
+
+## Text Classification 2
+The following is a notebook that looks through a dataset of Amazon product reviews and classifies them as positive, negative, or neutral. I use sequential deep learning networks, including a CNN architecture.
+
+[Notebook](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/TextClassification2.ipynb)<br/>
+[PDF](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395.001%20Text%20Classification%202.pdf)
