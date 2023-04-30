@@ -64,3 +64,8 @@ The following is a notebook that looks through a dataset of Amazon product revie
 
 [Notebook](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/TextClassification2.ipynb)<br/>
 [PDF](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395.001%20Text%20Classification%202.pdf)
+
+## Wrap-Up
+The following document lists some technical and communication skills developed over the course of the semester.
+
+[Skills Overview](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Wrap-Up.pdf)<br/>
