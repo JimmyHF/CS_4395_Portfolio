@@ -69,3 +69,5 @@ The following is a notebook that looks through a dataset of Amazon product revie
 The following document lists some technical and communication skills developed over the course of the semester.
 
 [Skills Overview](https://github.com/JimmyHF/CS_4395_Portfolio/blob/main/CS%204395%20Wrap-Up.pdf)<br/>
+
+I found NLP to be a very interesting subset of machine learning. I was never a huge fan of English courses and literature analysis, but linguistics is absolutely a field that I can get behind. New techniques in language extraction, translation, and generation are at the forefront of popular media, and other NLP techniques have found extensive use in things like search algorithms and product recommendations. At this point I'm open to most software opportunities, so while I do not have plans to pursue NLP in particular, I am open to jobs that involve text processing, image classification, or any other sorts of machine learning activities. Now that I know how simple it is to create a chat bot using GPT integration, I may venture to make one with a knowledge base surrounding one of my hobbies. Otherwise, I likely will not do anything involving NLP in the near future.
